@@ -1,4 +1,4 @@
-# 🔐 Cryptography Toolkit
+# Cryptography Toolkit
 
 A comprehensive educational repository demonstrating modern cryptographic algorithms and security protocols through interactive Jupyter notebooks. This project showcases practical implementations of symmetric encryption, asymmetric cryptography, digital signatures, hashing algorithms, and secure communication protocols.
 
